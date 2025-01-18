@@ -1,6 +1,6 @@
 # Wine Dataset Analysis
 
-## What is the count and percentage of high-quality wines (wines with a quality rating of >7) for red and white wine types, as well as the overall percentage of high-quality wines relative to the total wine dataset?
+### What is the count and percentage of high-quality wines (wines with a quality rating of >7) for red and white wine types, as well as the overall percentage of high-quality wines relative to the total wine dataset?
 
 ![What is the count and percentage of high-quality wines (wines with a quality rating of >7) for red and white wine types, as well as the overall percentage of high-quality wines relative to the total wine dataset?](https://github.com/yildiramdsa/wine_dataset_analysis/blob/main/images/q1.png)
 
@@ -16,7 +16,7 @@
 
 **Overall Percentage of High-Quality Wines**: High-quality wines make up 2.88% of the total dataset; 97.12% are low-quality wines.
 
-## How do the average values of features differ between high-quality and low-quality wines for both red and white wine types?
+### How do the average values of features differ between high-quality and low-quality wines for both red and white wine types?
 
 ![How do the average values of features differ between high-quality and low-quality wines for both red and white wine types?](https://github.com/yildiramdsa/wine_dataset_analysis/blob/main/images/q2.png)
 ![How does the alcohol content distribution vary between high-quality and low-quality wines for red and white wine types?](https://github.com/yildiramdsa/wine_dataset_analysis/blob/main/images/q3.png)
@@ -25,7 +25,7 @@
 
 **Sulfur Dioxide**: **High-quality wines** generally have **lower levels**, indicating better natural processing.
 
-## How does the alcohol content distribution vary between high-quality and low-quality wines for red and white wine types? What are the differences in total sulfur dioxide content distribution between high-quality and low-quality wines for red and white wine types?
+### How does the alcohol content distribution vary between high-quality and low-quality wines for red and white wine types? What are the differences in total sulfur dioxide content distribution between high-quality and low-quality wines for red and white wine types?
 
 ![What are the differences in total sulfur dioxide content distribution between high-quality and low-quality wines for red and white wine types?](https://github.com/yildiramdsa/wine_dataset_analysis/blob/main/images/q4.png)
 
