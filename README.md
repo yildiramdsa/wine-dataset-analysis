@@ -1,5 +1,7 @@
 # wine-dataset-analysis
 
+**Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C83B9?logo=seaborn&logoColor=white)
+
 The project aims to analyze the quality and characteristics of red and white wines by addressing the following questions:
 
 #### What is the count and percentage of high-quality wines (wines with a quality rating of >7) for red and white wine types, as well as the overall percentage of high-quality wines relative to the total wine dataset?
