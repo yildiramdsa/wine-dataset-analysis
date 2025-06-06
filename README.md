@@ -1,4 +1,4 @@
-# Wine Dataset Analysis
+# wine-dataset-analysis
 
 The project aims to analyze the quality and characteristics of red and white wines by addressing the following questions:
 
