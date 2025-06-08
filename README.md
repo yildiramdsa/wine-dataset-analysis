@@ -1,4 +1,4 @@
-# wine-dataset-analysis
+# Wine Dataset Analysis
 
 **Tech Stack:** ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-377EB8?logo=seaborn&logoColor=white)
 
